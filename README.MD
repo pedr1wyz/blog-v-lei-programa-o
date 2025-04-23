@@ -12,5 +12,5 @@ Refatoração de um site implementando recursos de acessibilidade no html, css e
 - HTML
 - CSS
 - JS
-#Este trabalho pertence a:
+# Este trabalho pertence a:
 - Pedro Davi Machado 3°B
